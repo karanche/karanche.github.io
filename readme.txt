@@ -1,7 +1,7 @@
 
 ==================================================================================================
 
-This repository is created to display my profile in a interactive Digital Format.
+This repository is created to display my profile in a interactive Digital Format. on 25th June,2017.
 
 ==================================================================================================
 
@@ -82,7 +82,8 @@ Javascript Files:
 
 --------------------------------------------------------------------------------------------------------- 
 
-
-Thanks for downloading from Styleshout :)
-  
+                                [ ]
+Thanks for visiting my profile <(:)>
+                                / \
+                               /   \ 
 
