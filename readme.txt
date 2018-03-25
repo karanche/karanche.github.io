@@ -6,3 +6,5 @@ This repository is created to display my profile in a interactive Digital Format
 ==================================================================================================
 
 
+Links for quick reference to FrontEndIndiaScholarship projects:
+1.Html Mockup: https://karanche.github.io/FrontEndIndiaScholarship/project1/index.html
